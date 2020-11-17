@@ -7,6 +7,7 @@ export const config = {
   'aws_region': process.env.AWS_REGION,
   'aws_profile': process.env.AWS_PROFILE,
   'url': process.env.URL,
+  'port': process.env.PORT,
   'jwt': {
     'secret': process.env.JWT_SECRET,
   },
