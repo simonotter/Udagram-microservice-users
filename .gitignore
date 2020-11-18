@@ -1,3 +1,4 @@
 node_modules
 kubectl.sha256
 AWSCLIV2.pkg
+variables.env
