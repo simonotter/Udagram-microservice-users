@@ -1,4 +1,5 @@
 node_modules
+npm-debug.log
 kubectl.sha256
 AWSCLIV2.pkg
 variables.env
